@@ -1,2 +1,2 @@
-# blog-flask
+# BoLOg
 A flask based blogging application
